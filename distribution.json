@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "rss": "https://raw.githubusercontent.com/Geniwey/mi-launcher-archivos/main/rss.xml",
+  "servers": [
+    {
+      "id": "mi_serie-1.21.1",
+      "name": "mi_serie (Minecraft 1.21.1)",
+      "description": "mi_serie Running Minecraft 1.21.1",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
+}
